@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<!-- !DOCTYPE locales PUBLIC "i18n.dtd" "i18n.dtd" -->
+<locales>
+    <locale language-country="zh_CN">
+        <pair label-key="edu.jlxy.stringfilter.LOWERCASEFILTER" label-value="小写转换器"/>
+        <pair label-key="edu.jlxy.stringfilter.UPPERCASEFILTER" label-value="大写转换器"/>
+        <pair label-key="edu.jlxy.stringfilter.PREFIXTRIMFILTER" label-value="去除前缀空格转换器"/>
+        <pair label-key="edu.jlxy.stringfilter.STRINGFILTER" label-value="字符串变换器"/>
+        <pair label-key="edu.jlxy.stringfilter.SOURCESTRING" label-value="源自符串:"/>
+        <pair label-key="edu.jlxy.stringfilter.STRINGFILTERED" label-value="变换结果:"/>
+        <pair label-key="edu.jlxy.stringfilter.AVAILABLEFILTER" label-value="可用变换器"/>
+        <pair label-key="edu.jlxy.stringfilter.FILTERCHAIN" label-value="变换器链"/>        
+        <pair label-key="edu.jlxy.stringfilter.ADD" label-value="添加 &gt;"/>
+        <pair label-key="edu.jlxy.stringfilter.REMOVE" label-value="&lt; 去除"/>
+        <pair label-key="edu.jlxy.stringfilter.REMOVEALL" label-value="&lt;&lt; 去除所有"/>
+        <pair label-key="edu.jlxy.stringfilter.APPLY" label-value="应用"/>
+        <pair label-key="edu.jlxy.stringfilter.EXIT" label-value="退出"/>     
+    </locale>
+    <locale language-country="en_US">
+         <pair label-key="edu.jlxy.stringfilter.LOWERCASEFILTER" label-value="Lowercase Filter"/>
+        <pair label-key="edu.jlxy.stringfilter.UPPERCASEFILTER" label-value="Uppercase Filter"/>
+         <pair label-key="edu.jlxy.stringfilter.PREFIXTRIMFILTER" label-value="Prefix Trim Filter"/>
+         <pair label-key="edu.jlxy.stringfilter.STRINGFILTER" label-value="String Filter"/>
+        <pair label-key="edu.jlxy.stringfilter.SOURCESTRING" label-value="Source String:"/>
+        <pair label-key="edu.jlxy.stringfilter.STRINGFILTERED" label-value="String Filtered:"/>
+        <pair label-key="edu.jlxy.stringfilter.AVAILABLEFILTER" label-value="Available Filter"/>
+        <pair label-key="edu.jlxy.stringfilter.FILTERCHAIN" label-value="Filter Chain"/>
+        <pair label-key="edu.jlxy.stringfilter.ADD" label-value="Add &gt;"/>
+        <pair label-key="edu.jlxy.stringfilter.REMOVE" label-value="&lt;  Remove"/>
+        <pair label-key="edu.jlxy.stringfilter.REMOVEALL" label-value="&lt;&lt;Remove All"/>
+        <pair label-key="edu.jlxy.stringfilter.APPLY" label-value="Apply"/>
+        <pair label-key="edu.jlxy.stringfilter.EXIT" label-value="Exit"/>        
+    </locale>
+</locales>
